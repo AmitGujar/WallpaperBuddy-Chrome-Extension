@@ -24,6 +24,6 @@
   **Hurray!**
 
   **LICENSE**
-  � 2019 Copyright Amit Gujar  [MIT](https://github.com/AmitGujar/WallpaperBuddy-Chrome-Extension/blob/master/LICENSE).
+  2019 Copyright Amit Gujar  [MIT](https://github.com/AmitGujar/WallpaperBuddy-Chrome-Extension/blob/master/LICENSE).
 
 
