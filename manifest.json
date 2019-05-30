@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Wallpaper Buddy",
-  "description": "Tired by Searching desired Images on different Websites, Then Wallpaper Buddy is right choice for you which is an Extension Which Makes Your Image Search Easy to Surf/Download",
+  "description": "Meet your perfect Buddy for Finding/Downloading Wallpapers",
   "version": "2.0",
   "author": "Amit Gujar",
   "browser_action": {
