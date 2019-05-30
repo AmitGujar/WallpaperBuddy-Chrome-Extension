@@ -1,4 +1,4 @@
-# WallpaperBuddy-Chrome-Extensiom
+# WallpaperBuddy-Chrome-Extension
 ##An Extension Which Makes Your Image Search Easy to Surf/Download.
 
 #Version 2.0 (change-log)
