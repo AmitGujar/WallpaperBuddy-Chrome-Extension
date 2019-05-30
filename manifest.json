@@ -1,7 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Wallpaper Buddy",
-  "description": "Meet your perfect Buddy for Finding/Downloading Wallpapers",
+  "short_name": "photomate",
+  "description": "Meet your perfect Buddy for Finding/Downloading Wallpapers.",
   "version": "2.0",
   "author": "Amit Gujar",
   "browser_action": {
