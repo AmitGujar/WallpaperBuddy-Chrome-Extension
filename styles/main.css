@@ -1,15 +1,15 @@
 body {
-    background-image: url("44220.jpg");
+    background-image: url("photo3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .white-text {
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .fonts {
-    font-family: 'Assistant';font-size: 22px;
+    font-family: 'Assistant';font-size: 20px;
 }
 
 .center-content {
@@ -18,6 +18,61 @@ body {
     margin-bottom: 20%;
 }
 
+/* radio buttons */
+  .custom-radios div {
+    display: inline-block;
+  }
+  .custom-radios input[type="radio"] {
+    display: none;
+  }
+  .custom-radios input[type="radio"] + label {
+    color: rgb(255, 255, 255);
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+  }
+  .custom-radios input[type="radio"] + label span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: -1px 4px 0 0;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 50%;
+    border: 2px solid #FFFFFF;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.33);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    line-height: 44px;
+  }
+  .custom-radios input[type="radio"] + label span img {
+    opacity: 0;
+    transition: all .3s ease;
+  }
+  .custom-radios input[type="radio"]#google-rb + label span {
+    background-color: #00ff6a;
+  }
+  .custom-radios input[type="radio"]#alpha-rb + label span {
+    background-color: #115786ec;
+  }
+  .custom-radios input[type="radio"]#craft-rb + label span {
+    background-color: #ffd11b;
+  }
+  .custom-radios input[type="radio"]#unsplash-rb + label span {
+    background-color: #991305;
+  }
+  .custom-radios input[type="radio"]#cave-rb + label span {
+    background-color: rgb(209, 87, 6);  
+  }
+  .custom-radios input[type="radio"]:checked + label span {
+    opacity: 1;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+  
+  }
+
+/*search button */
 .btn-size {
     width: 20%;
     margin-top: 20px;
@@ -37,14 +92,14 @@ body {
     overflow: hidden;
     cursor: pointer;
   }
-  
+
   .btn-size:after {
     content: "";
     background: #90EE90;
     display: block;
     position: absolute;
     padding-top: 300%;
-    padding-left: 350%;
+    padding-left: 300%;
     margin-left: -20px!important;
     margin-top: -120%;
     opacity: 0;
@@ -57,7 +112,6 @@ body {
     opacity: 1;
     transition: 0s
   }
-
 
 h1 {
     margin-bottom: 20px;
