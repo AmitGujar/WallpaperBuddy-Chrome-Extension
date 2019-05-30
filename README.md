@@ -8,7 +8,7 @@
 
 ### Screenshots
 
-![Running on my browser](/screenshots/screenshot.jpg "screenshot")
+![Running on my browser](/screenshots/screenshot.png "screenshot")
 
 
 ## Want to add new features?
