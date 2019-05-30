@@ -1,5 +1,10 @@
 # WallpaperBuddy-Chrome-Extensiom
-## Simple extension which makes your image/picture search easy.
+##An Extension Which Makes Your Image Search Easy to Surf/Download.
+
+#Version 2.0 (change-log)
+#Background Wallpaper Changed
+#Redesigned Radio Buttons
+
 
 ### Screenshots
 
@@ -19,6 +24,6 @@
   **Hurray!**
 
   **LICENSE**
-  © 2019 Copyright Amit Gujar  [MIT](https://github.com/AmitGujar/WallpaperBuddy-Chrome-Extension/blob/master/LICENSE).
+  ï¿½ 2019 Copyright Amit Gujar  [MIT](https://github.com/AmitGujar/WallpaperBuddy-Chrome-Extension/blob/master/LICENSE).
 
 
