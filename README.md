@@ -7,8 +7,7 @@
 
 
 ### Screenshots
-
-![Running on my browser](/screenshots/screenshot.png "screenshot")
+![Extension-Screenshot](/screenshots/screenshot.jpg "screenshot")
 
 
 ## Want to add new features?
